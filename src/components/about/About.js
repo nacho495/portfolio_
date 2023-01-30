@@ -34,7 +34,11 @@ const About = () => {
                             <small>50+ Projects</small>
                         </article>
                     </div>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p className='about__text'>Hello!, I'm  Ignacio, a graphic designer, video editor and self-taught programmer seeking to broaden my knowledge and solidify my abilities in digital and visual communication.</p>
+                     <p>I'm always interested in learning new technologies and applying them into my creative process, to achieve in that way, a good combination of both design and function.</p>
+    
+                    <div className='about__text'> <p>I'm fluent in both spanish and english, having achieved a C2 proficiency level in the later.</p> </div>
+                    <div></div>
                     <a href={"#contact"} className={"btn btn-primary"}>Let's Talk</a>
                 </div>
             </div>
